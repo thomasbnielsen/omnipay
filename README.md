@@ -248,7 +248,7 @@ Gateway | 2.x | 3.x | Composer Package | Maintainer
 [Postfinance](https://github.com/bummzack/omnipay-postfinance) | ✓ | - | bummzack/omnipay-postfinance | [Roman Schmid](https://github.com/bummzack)
 [Qiwi](https://github.com/hiqdev/omnipay-qiwi) | ✓ | ✓ | hiqdev/omnipay-qiwi | [HiQDev](https://github.com/hiqdev)
 [QQ Wallet(QPay)](https://github.com/kuangjy2/omnipay-qpay) | - | ✓ | kuangjy/omnipay-qpay | [Kuang Jiaye](https://github.com/kuangjy2)
-[Quickpay](https://github.com/NobrainerWeb/omnipay-quickpay) | ✓ | - | nobrainerweb/omnipay-quickpay | [Nobrainer Web](https://github.com/NobrainerWeb)
+[Quickpay](https://github.com/NobrainerWeb/omnipay-quickpay) | ✓ | ✓ | nobrainerweb/omnipay-quickpay | [Nobrainer Web](https://github.com/NobrainerWeb)
 [Rabobank](https://github.com/thephpleague/omnipay-rabobank) | ✓ | - | omnipay/rabobank | [Barry vd. Heuvel](https://github.com/barryvdh)
 [Razorpay](https://github.com/razorpay/omnipay-razorpay) | ✓ | - |  razorpay/omnipay-razorpay  | [razorpay](https://github.com/razorpay)
 [Realex](https://github.com/digitickets/omnipay-realex) | ✓ | - | digitickets/omnipay-realex | [DigiTickets](https://github.com/digitickets)
